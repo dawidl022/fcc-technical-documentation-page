@@ -6,7 +6,7 @@ body {
   font-family: Arial, sans-serif;
 }
 
-header {
+body > header {
   height: 100vh;
   border-right: 3px solid #99a1a1;
 }
@@ -95,7 +95,7 @@ code {
     padding: 0 25px;
     padding-bottom: 120px;
   }
-  header {
+  body > header {
     height: auto;
     border-right: none;
   }
